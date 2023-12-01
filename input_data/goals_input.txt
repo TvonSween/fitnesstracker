@@ -1,0 +1,4 @@
+1, Christmas is coming, Lose weight, 3, 2023-11-01, 2023-12-23
+2, Project Amazon, Build strength, 3, 2023-10-01, 2024-02-01
+3, Bendy, Increase flexibilty, 2, 2023-06-01, 2023-12-31
+4, DoIt, Stick to exercise plan, 3, 2023-06-01, 2023-12-01
